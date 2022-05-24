@@ -1,3 +1,3 @@
 # Naman-Oli-Portfolio
 
-https://namanoli.me/
+https://namanoli.github.io/portfolio/
